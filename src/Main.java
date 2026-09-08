@@ -14,7 +14,7 @@ public class Main {
         }
 
         // Задача № 3
-        for (int x = 2; x < 17; x = x + 2) {
+        for (int x = 0; x < 17; x += 2) {
             System.out.println(x);
         }
 
